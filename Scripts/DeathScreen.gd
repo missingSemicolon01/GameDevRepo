@@ -1,5 +1,5 @@
 extends Node
-
+#Death Screen
 #NOTE this class is attached to the death_screen scene that shows up when the player dies
 #is handles the logic for resetting the level
 
